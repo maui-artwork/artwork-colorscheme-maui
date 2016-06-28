@@ -89,8 +89,8 @@ ForegroundPositive=0,110,40
 ForegroundVisited=69,40,134
 
 [General]
-ColorScheme=ElementaryLuna
-Name=ElementaryLuna
+ColorScheme=Maui
+Name=Maui
 shadeSortColumn=true
 
 [KDE]
